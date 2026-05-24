@@ -1,0 +1,10 @@
+{
+  "name": "git-commit-message",
+  "description": "Generate conventional git commit messages from staged changes. Covers React, Node, Go, Python, Terraform, Docker, K8s, and more.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Manas"
+  },
+  "homepage": "https://github.com/<your-username>/git-commit-message-skill",
+  "repository": "https://github.com/<your-username>/git-commit-message-skill"
+}
