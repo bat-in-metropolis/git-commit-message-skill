@@ -10,7 +10,7 @@ Type `/git-commit-message` after staging files and get back a properly-formatted
 
 ```bash
 # Clone this repo anywhere
-git clone https://github.com/<your-username>/git-commit-message-skill.git
+git clone git@github.com:bat-in-metropolis/git-commit-message-skill.git
 
 # Copy the skill into your Claude Code skills directory
 mkdir -p ~/.claude/skills
